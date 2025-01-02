@@ -6,10 +6,12 @@ const hero = () => {
         <div className="hero-title">
           <h1>My CMS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ut
-            deserunt asperiores rerum error saepe aut pariatur sequi eius ex
-            consectetur dicta harum non, similique voluptates porro labore
-            eveniet. Mollitia!
+            Welcome to my projects site! Explore a collection of my work,
+            showcasing innovative solutions in web development, software
+            engineering, and research. From responsive web applications to
+            AI-driven projects, each endeavor reflects my passion for
+            problem-solving, creativity, and continuous learning. Let’s build
+            the future, one project at a time!
           </p>
         </div>
         <div className="img-container">
