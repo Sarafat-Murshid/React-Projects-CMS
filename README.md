@@ -1,6 +1,6 @@
 ## Live Link
 
-[My_Projects]https://sarafat-murshid-projects.netlify.app/
+[My_Projects](https://sarafat-murshid-projects.netlify.app/)
 
 ## Figma URL
 
